@@ -1,5 +1,5 @@
-import {{REPO_NAME_SNAKECASE}}
+import SPICY
 
 
 def test_nothing():
-    print({{REPO_NAME_SNAKECASE}})
+    print(SPICY)
